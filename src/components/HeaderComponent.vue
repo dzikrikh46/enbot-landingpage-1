@@ -28,13 +28,13 @@
       <div v-if="navBarShouldShow" class="bg-white w-full animate-fade-in-down py-[2rem] shadow-sm shadow-orange-200 relative block md:hidden">
         <div class="divide-y px-[1rem]">
           <div class="py-4 text-lg font-bold">
-            <a href="" class="nav-link">ChatBot</a>
+            <a href="https://64a4d3f42b046c444900b8d5--enbot-chatbot.netlify.app/" class="nav-link">ChatBot</a>
           </div>
           <div class="py-4 text-lg font-bold">
-            <a href="" class="nav-link">TalkBot</a>
+            <a href="https://64a3409c8cd57a54eacb1bf3--enbot-talkbot.netlify.app/" class="nav-link">TalkBot</a>
           </div>
           <div class="py-4 text-lg font-bold">
-            <a href="" class="nav-link">Dictionary</a>
+            <a href="https://dzikrikh46.github.io/enbot-doctorwords-1/" class="nav-link">Dictionary</a>
           </div>
         </div>
       </div>

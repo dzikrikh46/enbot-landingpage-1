@@ -4,7 +4,7 @@
             <h1 class="text-2xl font-bold text-center font-signika">Features for a better experience</h1>
             <div class="flex flex-wrap md:space-y-0 space-y-8 justify-between my-6 items-center">
                 <div class="flex md:flex-row items-center space-y-3 md:space-y-0 flex-col space-x-3 md:w-[30%]">
-                    <a href="chatbot.html" class="feature-link">
+                    <a href="https://64a4d3f42b046c444900b8d5--enbot-chatbot.netlify.app/" class="feature-link">
                         <div>
                             <span class="las orangered bg-orange-100 px-2 py-2 rounded-full la-comments text-xl"></span>
                         </div>

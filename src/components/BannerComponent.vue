@@ -8,13 +8,14 @@
           </div>
           <p class="text-base md:text-lg text-black">Becoming a platform that facilitates you in learning English, especially in speaking.</p>
           <div>
-            <button class="transform hover:scale-110 transition-transform duration-300 bg-gradient-to-r from-purple-500 to-pink-500 flex items-center space-x-1 font-medium rounded-md shadow-md text-sm md:text-base capitalize text-white px-4 py-3">
+            <a href="https://64a3409c8cd57a54eacb1bf3--enbot-talkbot.netlify.app/" class="transform hover:scale-110 transition-transform duration-300 bg-gradient-to-r from-purple-500 to-pink-500 flex items-center space-x-1 font-medium rounded-md shadow-md text-sm md:text-base capitalize text-white px-4 py-3">
               <span>Try our main feature</span>
               <span class="las la-arrow-right text-lg font-extrabold"></span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
+
       <div class="md:w-2/3">
         <img class="w-full transform hover:scale-110 transition-transform duration-300" src="../assets/icons/4.png" alt="">
       </div>
